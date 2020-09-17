@@ -14,7 +14,7 @@ Created by Manav Chugh on Sep 17, 2020 The Rumie Initiative
 We create Bytes primarily on soft life and career skills that orient on the action. **Soft skills** are non-technical abilities that relate to how we work and interact with others. _For example: teamwork, communication, and adaptability._
 
 | **Category**  |   |   |   |   |   |   |   
-|---|---|---|---|---|---|---|
+|---------------------------|---|---|---|---|---|---|
 |  **Career Skills**<br>  "I want to be more employable."  | **Learning to Learn**<br>  "I want to take ownership of my personal development." | **Business Acumen**<br>  "I want to better navigate business structures."   | **Innovation**<br>  "I want to be prepared for whatever the future might hold."  | **Digital Literacy**<br>  "I want to be an informed digital citizen." |  **Health***<br>  "I want to contribute to a healthy community." | **Civics***<br>  "I want to be an informed global citizen."  |   
 |  **Example Topics & Themes** |   |   |   |   |   |   |   
 | Teamwork → Constructive Conflict, Cultural Awareness  |  Finding Resources → Mentorship, Personal Learning Networks. | Personal Finance → Tracking Expenses, Financial Planning   | Adaptability → Perseverance, Openness  | Information and Media Literacies → Evaluating Digital Information, Searching  | Physical Health → Sexual Health, Nutrition |  overnment → Voting, Law & Justice | |   
@@ -205,7 +205,7 @@ The Learning Design team follows a 14-day sprint structure, outlined below.
 * Sprint content areas will be communicated via Slack prior to the start of each sprint.
 * The sprint is a guide but not hard deadlines. If you are delayed or need more time, communicate this with your squad lead via slack.
 Occasionally, we will take a week between sprints as a "Catch-Up and Learning Objectives" week.
-* This week is intended as an opportunity for all team members to tie up any outstanding loose ends, author, and review learning objectives on the topic of focus.
+* This week is intended as an opportunity for all team members to tie up any outstanding loose ends, author, and review learning objectives on the topic of focus. <br> 
 ![](rumieSprint.png)
 
 
