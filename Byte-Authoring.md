@@ -15,20 +15,20 @@ We create Bytes primarily on soft life and career skills that orient on the acti
 
 | **Category**  |   |   |   |   |   |   |   
 |---|---|---|---|---|---|---|
-|  **Career Skills** _"I want to be more employable."_  | **Learning to Learn** _"I want to take ownership of my personal development."_  | **Business Acumen** _"I want to better navigate business structures."_   | **Innovation** _"I want to be prepared for whatever the future might hold."_  | **Digital Literacy** _"I want to be an informed digital citizen."_  |  **Health*** _"I want to contribute to a healthy community."_ | **Civics*** _"I want to be an informed global citizen."_  |   
+|  **Career Skills**<br>  "I want to be more employable."  | **Learning to Learn**<br>  "I want to take ownership of my personal development." | **Business Acumen**<br>  "I want to better navigate business structures."   | **Innovation**<br>  "I want to be prepared for whatever the future might hold."  | **Digital Literacy**<br>  "I want to be an informed digital citizen." |  **Health***<br>  "I want to contribute to a healthy community." | **Civics***<br>  "I want to be an informed global citizen."  |   
 |  **Example Topics & Themes** |   |   |   |   |   |   |   
-| Teamwork → Constructive Conflict, Cultural Awareness  |  Finding Resources → Mentorship, Personal Learning Networks. | Personal Finance → Tracking Expenses, Financial Planning   | Adaptability → Perseverance, Openness  |  Information and Media Literacies → Evaluating Digital Information, Searching  | Physical Health → Sexual Health, Nutrition   |  overnment → Voting, Law & Justice | |   
+| Teamwork → Constructive Conflict, Cultural Awareness  |  Finding Resources → Mentorship, Personal Learning Networks. | Personal Finance → Tracking Expenses, Financial Planning   | Adaptability → Perseverance, Openness  | Information and Media Literacies → Evaluating Digital Information, Searching  | Physical Health → Sexual Health, Nutrition |  overnment → Voting, Law & Justice | |   
 |  **Outcomes** |   |   |   |   |   |   |   
-| Become more prepared to engage in modern workplaces (regardless of specific vocation)  | Become a self-directed learner. Take better advantage of learning opportunities everywhere.| Develop an entrepreneur's mindset and build foundational business knowledge. | Become more agile. Adapt to changing circumstances at work or in the world. | Build foundational knowledge and skills to act safely and appropriately online. |  _*Requested By NGO partner organizations._Combat misinformation and build healthier habits.  |  _*Suggested by a volunteer group._Spark civic awareness, engagement and activism. |    
+| Become more prepared to engage in modern workplaces (regardless of specific vocation)  | Become a self-directed learner. Take better advantage of learning opportunities everywhere.| Develop an entrepreneur's mindset and build foundational business knowledge. | Become more agile. Adapt to changing circumstances at work or in the world. | Build foundational knowledge and skills to act safely and appropriately online. |  *_Requested By NGO partner organizations_.Combat misinformation and build healthier habits.  |  *_Suggested by a volunteer group_.Spark civic awareness, engagement and activism. |    
 
 ## Learning Objectives (LOs)
 
-_Training Session_ [_ <u>recording</u>_]() _,_ [_ <u>deck</u>_](https://docs.google.com/presentation/d/1WcLQcp_Y0sc4J20KfFBYbePwLSNWM3O5NIMgsmmJoJQ/edit?usp=sharing) _, and_ [_ <u>activity</u>_]() _._
+_Training Session_[<u>recording</u>]() ,[<u>deck</u>](https://docs.google.com/presentation/d/1WcLQcp_Y0sc4J20KfFBYbePwLSNWM3O5NIMgsmmJoJQ/edit?usp=sharing) , and [<u>activity</u>]().
 
 ### LO Purpose
 
 * LOs help _learners_ self identify appropriate content. It helps answer the question: will this be helpful to me? Is this the outcome I'm looking for?
-* LOs help _Byte authors_maintain focus, ensuring that all content is directly contributing to or 'laddering up' to the learning objective.
+* LOs help _Byte authors_ maintain focus, ensuring that all content is directly contributing to or 'laddering up' to the learning objective.
 
 ### LOs vs SMART Goals
 
@@ -46,7 +46,7 @@ But, in contrast to SMART Goals, Byte LOs:
 
 ### Authoring Effective LOs
 
-1. Confirm: _does it align with Rumie's_ [_ <u>content guidelines</u>_](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.rq3dbcz1umxk) _?_
+1. Confirm: _does it align with Rumie's_ [<u>content guidelines</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.rq3dbcz1umxk) _?_
 2. _Confirm: does it add something new to the Byte library?_
 
 * There will be Bytes that cover similar content or overlap in some ways, and that's okay. But, we don't need to create Bytes that repeat what already exists.
@@ -83,14 +83,11 @@ _Example In Action_
 
 Sample Learning Objective: Contrast customer- and competitor-centric organizations. 
 
-* "What do Netflix, Amazon, and Uber have in common?
-
-They disrupted their industries by being customer-centric, instead of competitor-centric.<br>
+* "What do Netflix, Amazon, and Uber have in common?They disrupted their industries by being customer-centric, instead of competitor-centric.<br>
 By focusing on customer needs, they were able to highlight their competitors' shortfalls and gain market share.
-
-* Netflix didn't kill Blockbuster, the late fees did.
-* Amazon didn't kill some retailers, poor customer service did.
-* Uber didn't kill the taxi industry, limited access and fare control did."<br>
+  * Netflix didn't kill Blockbuster, the late fees did.
+  * Amazon didn't kill some retailers, poor customer service did.
+  * Uber didn't kill the taxi industry, limited access and fare control did."<br>
 
 ### Examples, examples, examples!
 
@@ -128,15 +125,11 @@ Sample Learning Objective: deliver feedback constructively.
 * Try to make distractor answers plausible. Answers that obviously wrong make the question too easy. We want to make all options somewhat tempting.
 
 _Example In Action_
-
 Sample Learning Objective: Differentiate between fixed and variable expenses.
-
 * After introducing the concept (likely with some examples), ask "Which of these is a variable expense?" Ensure all the responses are _new_ examples (i.e. not referenced immediately above).
 
 _Example In Action_
-
 Sample Learning Objective: Introduce yourself at a networking event.
-
 * Introduce a scenario using text. E.g., the learner is at a networking event and has spotted someone they want to speak to. Ask "What would be a good icebreaker to say to this individual?" Make the variations of the response of what someone could say, demonstrating the points you've taught in the Byte, but _not_ explicitly replicating the above examples.
 
 ### Strong Takeaway Prompts
@@ -144,13 +137,9 @@ Sample Learning Objective: Introduce yourself at a networking event.
 In the final "summary" step of your Byte, give the learner a prompt for something action-oriented they can do to apply their learning. This gives them the opportunity to extend their learning. You can think of it almost like you're assigning some light homework.
 
 _Example In Action_
-
 Sample Learning Objective: Take a collaborative approach to brainstorming.
-
 * "This week, the next time you're faced with a problem, take the opportunity to brainstorm with your team. Set aside 30 minutes to sit together and...."
-
 Sample Learning Objective: Create a visually attractive resume.
-
 * "Over the next few days, look online to find at least 3 examples of resumes that look clean and professional. Use these samples as models to begin building your own polished resume."
 
 ## Writing Style
@@ -167,7 +156,7 @@ For example:
 
 ### Simplify Writing
 
-_Training Session_ [_ <u>recording</u>_]() _,_ [_ <u>deck</u>_]() _, and_ [_ <u>activity</u>_]() _._
+_Training Session_ [<u>recording</u>]() _,_ [<u>deck</u>]() _, and_ [<u>activity</u>]() _._
 
 * To write simply, keep in mind the guiding principle: **first brevity, then clarity.** This means starting with the bare bones and adding supporting details/qualifying words to ensure your message is clear.
 * Cut the jargon and use straight forward vocabulary. Re-read your Byte out loud to delete unnecessary words where possible.<br>
@@ -178,22 +167,16 @@ _Examples in Action:_
 * Choose to write in bullet points over paragraphs. Any 'x, y, and z,' list can easily become a bulleted list.
 * Use an active voice. This means putting the subject (actor) at the beginning of the sentence. Or use the imperative if the subject would be "you."
 
-_Example in Action:_
-
-Don't say: "Follow-up emails are sent by successful candidates."
-
-Say: "Successful candidates send follow-up emails."
-
-Say: "Send a follow-up email."
-
+_Example in Action:_ <br>
+Don't say: "Follow-up emails are sent by successful candidates." <br>
+Say: "Successful candidates send follow-up emails." <br>
+Say: "Send a follow-up email." <br>
 * Use shorter sentences. Instead of using multiple commas, semicolons, or dashes, break one sentence into separate chunks. Connecting words like _however, therefore, additionally, moreover,_ are also clues to break up your sentence.
 * Use affirmative language. This means pointing out what people _should_do instead of negations.
 
-_Example in Action:_
-
-Don't say: "Don't leave your shoes on when you enter the house."
-
-Say: "Take your shoes off when you enter the house."
+_Example in Action:_ <br>
+Don't say: "Don't leave your shoes on when you enter the house." <br>
+Say: "Take your shoes off when you enter the house." <br>
 
 ## Peer Review
 
@@ -201,10 +184,10 @@ _Consider these points as you complete a peer review of a Byte._
 
 | | |
 | ---- | ---- | 
-| **Learning Effectiveness** | * Does the Byte fulfill the stated objective? * Is the content ordered in a logical way? (I.e. big picture before supporting details?) |
-| **Writing** | * Is the language simple and approachable? (Can I remove any jargon?) * Is the language action-oriented (i.e. "Do this" vs. "One would do this")? * Is the writing concise and direct (is there any filler that can be removed without compromising the message?) * Does the writing flow well from one point to the next? (Do transitions smoothly connect the points?) |
-| **Format** | * Does the formatting look clean and consistent? * Does the imagery complement the writing? * Is this learning experience shorter than 10 minutes? _(i.e. When I read it through to digest the information, watch all media, and engage with questions, the total seat time should be ~10 minutes or less. **Consider your reading speed in this assessment. If you're a slow reader, allow yourself ~15 minutes per Byte. If you're a fast reader, allow yourself ~5 minutes per Byte.**)_ |
-| **Engagement** | * Is there at least one multiple-choice question?   - Does it require the learner to apply their learning? (vs. simple recall/memorization) * Is there at least one instance of audio or video? |
+| **Learning Effectiveness** | * Does the Byte fulfill the stated objective? <br> * Is the content ordered in a logical way? (I.e. big picture before supporting details?) |
+| **Writing** | * Is the language simple and approachable? (Can I remove any jargon?) <br> * Is the language action-oriented (i.e. "Do this" vs. "One would do this")? <br> * Is the writing concise and direct (is there any filler that can be removed without compromising the message?) <br> * Does the writing flow well from one point to the next? (Do transitions smoothly connect the points?)<br> |
+| **Format** | * Does the formatting look clean and consistent? <br> * Does the imagery complement the writing? <br> * Is this learning experience shorter than 10 minutes? _(i.e. When I read it through to digest the information, watch all media, and engage with questions, the total seat time should be ~10 minutes or less. **Consider your reading speed in this assessment. If you're a slow reader, allow yourself ~15 minutes per Byte. If you're a fast reader, allow yourself ~5 minutes per Byte.**)_ |
+| **Engagement** | * Is there at least one multiple-choice question?  <br>  * Does it require the learner to apply their learning? (vs. simple recall/memorization) <br> * Is there at least one instance of audio or video? |
 
 # Learning Design Team Workflow
 
@@ -223,7 +206,7 @@ The Learning Design team follows a 14-day sprint structure, outlined below.
 * The sprint is a guide but not hard deadlines. If you are delayed or need more time, communicate this with your squad lead via slack.
 Occasionally, we will take a week between sprints as a "Catch-Up and Learning Objectives" week.
 * This week is intended as an opportunity for all team members to tie up any outstanding loose ends, author, and review learning objectives on the topic of focus.
-
+![](rumieSprint.png)
 
 
 ## Rumie-Build
@@ -236,7 +219,7 @@ Occasionally, we will take a week between sprints as a "Catch-Up and Learning Ob
 
 ## ClickUp
 
-_ClickUp Introductory_ [_ <u>video</u>_](https://www.youtube.com/watch?v=DRCy2WSjTd8&feature=youtu.be&ab_channel=SamZimmer)
+_ClickUp Introductory_ [<u>video</u>](https://www.youtube.com/watch?v=DRCy2WSjTd8&feature=youtu.be&ab_channel=SamZimmer)
 
 * Byte status' are tracked in ClickUp.
 * Upon completion of onboarding, Learning Designers will receive an invitation to join ClickUp. 
@@ -244,21 +227,21 @@ _ClickUp Introductory_ [_ <u>video</u>_](https://www.youtube.com/watch?v=DRCy2WS
 
 ### Statuses
 
-_ClickUp Process_ [_ <u>video</u>_](https://youtu.be/2q5Rx1wPpuY)
+_ClickUp Process_ [<u>video</u>](https://youtu.be/2q5Rx1wPpuY)
 
 As you move through the sprint process (authoring, peer review, and revision,) you will update the status of your Byte in ClickUp. The statuses are:
 
 |  |  |
 | --- | --- |
-| Objective Idea | * This is your objective 'brainstorm.' It may not be fully formed yet. * Change status when you are satisfied with the objective and have checked it against the [<u>guidelines.</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.e6bgk9la8ngz) |
-| The objective for Peer Review | * This is an objective that is ready for the second set of eyes. * Reviewers, consider the objective in the context of the [<u>guidelines</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.e6bgk9la8ngz). * Make changes directly to the LO, or @tag the author with comments. * Once the reviewer 'blesses' the objective, the reviewer changes the status. |
-| Ready to Build | * This is an objective that has been peer-reviewed and is ready to be built into a Byte. * Ready to Build objectives are considered 'up for grabs' until/unless someone has claimed it by making themself the 'assignee.' * Once you claim an objective (by making yourself the "assignee" at the start of a sprint), change the status. |
-| Build-in Progress | * This indicates that you are currently working on your first draft of the Byte. * Add the Byte URL from Rumie-Build. * Change the status when you have completed your first draft of the Byte (at the end of week 1 of the sprint). |
-| Byte for Peer Review | * This indicates that the Byte draft is complete and ready for peer review. * Peer reviewers may review in any order using the [<u>Peer Review Checklist</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.381elfqk3uxf). * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. * After giving comments, the first person to peer review changes the status. |
-| Byte for Peer Review 2 | * This indicates that the Byte draft has received one set of peer review comments. * Peer reviewers may review in any order using the [<u>Peer Review Checklist</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.381elfqk3uxf). * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. * After giving comments, the second person to peer review changes the status. |
-| Revisions in Progress | * This indicates that you are incorporating peer review feedback to finalize your Byte. * After finalizing, click "Publish" in Rumie Build. - Select a cover photo - Retitle the Byte (using Title Case) - Categorize according to category/topic/theme - Select appropriate timing * Change the Byte status after publishing. |
-| Byte for Rumie Review | * This indicates that the Byte is ready for Rumie review/approval. * Rumie will review the Byte in correspondence with the [<u>Approval Guidelines.</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.giyd5nuwn271) * Rumie will change the status after approving the Byte. |
-| Byte Published | * This indicates that the Byte is live on Rumie-Learn. |
+| Objective Idea | * This is your objective 'brainstorm.' It may not be fully formed yet. <br> * Change status when you are satisfied with the objective and have checked it against the [<u>guidelines.</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.e6bgk9la8ngz) <br> |
+| The objective for Peer Review | * This is an objective that is ready for the second set of eyes. <br> * Reviewers, consider the objective in the context of the [<u>guidelines</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.e6bgk9la8ngz). <br> * Make changes directly to the LO, or @tag the author with comments. <br> * Once the reviewer 'blesses' the objective, the reviewer changes the status. <br> |
+| Ready to Build | * This is an objective that has been peer-reviewed and is ready to be built into a Byte. <br> * Ready to Build objectives are considered 'up for grabs' until/unless someone has claimed it by making themself the 'assignee.' <br> * Once you claim an objective (by making yourself the "assignee" at the start of a sprint), change the status. <br> |
+| Build-in Progress | * This indicates that you are currently working on your first draft of the Byte. <br> * Add the Byte URL from Rumie-Build. <br> * Change the status when you have completed your first draft of the Byte (at the end of week 1 of the sprint). <br>|
+| Byte for Peer Review | * This indicates that the Byte draft is complete and ready for peer review. <br> * Peer reviewers may review in any order using the [<u>Peer Review Checklist</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.381elfqk3uxf). <br> * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the first person to peer review changes the status. |
+| Byte for Peer Review 2 | * This indicates that the Byte draft has received one set of peer review comments. <br> * Peer reviewers may review in any order using the [<u>Peer Review Checklist</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.381elfqk3uxf). <br> * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the second person to peer review changes the status. <br> |
+| Revisions in Progress | * This indicates that you are incorporating peer review feedback to finalize your Byte. <br> * After finalizing, click "Publish" in Rumie Build. - Select a cover photo - Retitle the Byte (using Title Case) - Categorize according to category/topic/theme - Select appropriate timing <br> * Change the Byte status after publishing. <br> |
+| Byte for Rumie Review | * This indicates that the Byte is ready for Rumie review/approval. <br> * Rumie will review the Byte in correspondence with the [<u>Approval Guidelines.</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.giyd5nuwn271) <br> * Rumie will change the status after approving the Byte. <br> |
+| Byte Published | * This indicates that the Byte is live on Rumie-Learn. <br> |
 
 ### Dashboards
 
@@ -353,11 +336,11 @@ Is the learner uncovering a problem or a solution?
 
 * **problem aware: the learner is seeking to understand a challenge or its causes*
 
-E.g.,[_ <u>Identifying Bullying in Different Settings</u>_](https://learn.rumie.org/jR/bytes/identifying-bullying-in-different-settings/view)
+E.g.,[<u>Identifying Bullying in Different Settings</u>](https://learn.rumie.org/jR/bytes/identifying-bullying-in-different-settings/view)
 
 * **solution aware: the learner is exploring possible solutions to address the challenge*
 
-E.g., [_ <u>Responding to Bullying</u>_](https://learn.rumie.org/jR/bytes/responding-to-bullying/view)
+E.g., [<u>Responding to Bullying</u>](https://learn.rumie.org/jR/bytes/responding-to-bullying/view)
 
 #### Trends
 
