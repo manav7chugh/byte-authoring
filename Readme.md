@@ -8,7 +8,8 @@ The Wiki is going be
 ### Guide 
 https://github.com/Rumie/byte-authoring/blob/master/Byte-Authoring.md
 
-### Approval Guidlines 
-
-
 ### Learning Design Team Workflow
+https://github.com/manav7chugh/byte-authoring/blob/master/Learning-Design-Team-Workflow.md
+
+### Approval Guidlines 
+https://github.com/manav7chugh/byte-authoring/blob/master/Approval-Guidelines.md
