@@ -3,13 +3,13 @@ Rumie is offering a wiki based intranet for Byte Authoring. Bytes are microlearn
 
 This Wiki will provide the necessary information to better understand the process of creation of Bytes, various learning objectives and approval guidelines necessary to deploy the Bytes for learners.  
 
-The Wiki is going be 
+The Wiki is being defined in a # step process 
 
-### Guide 
+### 1. Guide 
 https://github.com/Rumie/byte-authoring/blob/master/Byte-Authoring.md
 
-### Learning Design Team Workflow
+### 2. Learning Design Team Workflow
 https://github.com/manav7chugh/byte-authoring/blob/master/Learning-Design-Team-Workflow.md
 
-### Approval Guidlines 
+### 3. Approval Guidlines 
 https://github.com/manav7chugh/byte-authoring/blob/master/Approval-Guidelines.md
