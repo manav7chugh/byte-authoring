@@ -81,7 +81,7 @@ Is the learner uncovering a problem or a solution?
 
 * **problem aware: the learner is seeking to understand a challenge or its causes*
 
-E.g.,[<u>Identifying Bullying in Different Settings</u>](https://learn.rumie.org/jR/bytes/identifying-bullying-in-different-settings/view)
+E.g., [<u>Identifying Bullying in Different Settings</u>](https://learn.rumie.org/jR/bytes/identifying-bullying-in-different-settings/view)
 
 * **solution aware: the learner is exploring possible solutions to address the challenge*
 
